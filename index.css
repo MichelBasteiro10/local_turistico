@@ -1,0 +1,128 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    font-family: "Open Sans", sans-serif;
+}
+
+#content {
+    width: 1120px;
+    margin: 30px auto 195px auto;
+}
+
+.red-title {
+    color: red;
+    font-weight: bold;
+    font-size: 16px;
+    text-transform: uppercase;
+    margin-bottom: 8px;
+}
+
+header h1 {
+    margin-bottom: 40px;
+}
+
+#presentation img {
+    margin: 0;
+}
+
+#presentation span {
+    font-style: italic;
+    display: block;
+    margin-top: 24px;
+    text-align: center;
+}
+
+.divider {
+    width: 100%;
+    height: 1px;
+    margin: 40px 0 64px 0;
+    background-color: #d9d9d9;
+}
+
+p+h2 {
+    margin-bottom: 8px;
+}
+
+h2+p {
+    margin-bottom: 64px;
+}
+
+.card-travel img {
+    margin-bottom: 20px;
+}
+
+ol h3 {
+    margin-bottom: 4px;
+    font-size: 28px;
+}
+
+li+p {
+    margin-bottom: 24px;
+}
+
+.card-travel {
+    margin-bottom: 48px;
+}
+
+#content ul {
+    margin-left: 22px;
+}
+
+.good-for {
+    font-weight: bold;
+}
+
+.blue-li {
+    color: #0C51A7;
+    font-weight: bold;
+}
+
+ul li {
+    list-style: disc;
+}
+
+.title-number {
+    font-size: 28px;
+    font-weight: bold;
+    margin-left: 42px;
+}
+
+#purple-li {
+    color: #591B98;
+    font-weight: bold;
+}
+
+#pink-li {
+    color: #E5245E;
+    font-weight: bold;
+}
+
+#orange-li {
+    color: #E95E10;
+    font-weight: bold;
+}
+
+.final-divider {
+    width: 100%;
+    height: 1px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    background-color: #d9d9d9;
+}
+
+footer {
+    color: #333333;
+    text-align: center;
+    margin-bottom: 48px;
+    line-height: 150%;
+
+}
+
+footer img {
+    color: #333333;
+    vertical-align: middle;
+    font-weight: normal;
+}
